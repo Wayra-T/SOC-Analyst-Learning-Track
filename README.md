@@ -1,17 +1,20 @@
 # 🎯 LetsDefend SOC Analyst Learning Path
 
 📜 **Certificate Completed**  
+
 🧠 Hands-on Cybersecurity Training | 👨‍💻 Real-World SOC Scenarios
 
 ---
 
 ## 🔗 About the Learning Path
 
+
 I completed the [**LetsDefend SOC Analyst Learning Path**](https://app.letsdefend.io/path/soc-analyst-learning-path), a practical, browser-based training platform designed to simulate real-world SOC operations. The path focuses on threat detection, incident response, and analysis using tools commonly used in the industry.
 
 ---
 
 ## 🧠 My Experience
+
 
 I recently completed the LetsDefend SOC Analyst Learning Path, which gave me hands-on experience with real SOC tools like **SIEMs** and **EDRs**. Throughout the path, I learned how to detect and respond to different types of attacks, including phishing, brute force, and malware.
 
@@ -23,6 +26,6 @@ Big thanks to LetsDefend for the quality material — I really enjoyed the exper
 
 ## 🏅 Certificate
 
-markdown
+
 ![SOC Certificate](letsdefendcert.png)
 
