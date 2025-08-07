@@ -23,6 +23,6 @@ Big thanks to LetsDefend for the quality material — I really enjoyed the exper
 
 ## 🏅 Certificate
 
-```markdown
+markdown
 ![SOC Certificate](letsdefendcert.png)
 
