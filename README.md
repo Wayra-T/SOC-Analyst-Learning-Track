@@ -18,7 +18,7 @@ I completed the [**LetsDefend SOC Analyst Learning Path**](https://app.letsdefen
 
 I recently completed the LetsDefend SOC Analyst Learning Path, which gave me hands-on experience with real SOC tools like **SIEMs** and **EDRs**. Throughout the path, I learned how to detect and respond to different types of attacks, including phishing, brute force, and malware.
 
-The training helped me understand how a Security Operations Center operates, and how to investigate alerts, analyze logs, and apply frameworks like **MITRE ATT&CK**. Each task gave me practical skills that I can use in real-world SOC environments, and it really boosted my confidence.
+The training helped me understand how a Security Operations Center operates, and how to investigate alerts and analyse logs. Each task gave me practical skills that I can use in real-world SOC environments, and it really boosted my confidence.
 
 Big thanks to LetsDefend for the quality material — I really enjoyed the experience and had a lot of fun along the way!
 
